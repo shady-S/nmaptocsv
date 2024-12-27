@@ -1,4 +1,4 @@
-# nmaptocsv  
+# nmaptocsv-converter  
 This script converts .nmap file which is obtained when using (-oA) switch to csv format in Nmap.  
 
 ## How to Use
